@@ -1,5 +1,2 @@
 # Pheno_Demo
-test repo
-
-this is a line from RStudio
-this is a line from github
+This repository is for collaborative work on studies of plant flowering phenology and demography by Nora Underwood, Brian Inouye, David McNutt and  Johan Ehrlén. 
