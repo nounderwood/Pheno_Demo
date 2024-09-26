@@ -21,6 +21,9 @@ usethis::create_from_github("https://github.com/nounderwood/LTREB-Phenology-Demo
 ##created clone of GitHub repo Pheno_Demo in D:/LTREB/LTREB_Phenology_Demography using Rstudio dialogue
 ##,following ch 12 of happygitwithR. This creates a new Rstudio project Pheno-Demo
 
+##note that the FIRST time you can't use the dialogue because Git won't be an option, so first time
+##use either the git console (chapter 11) or R (chapter 15)
+
 ##Created this script to keep track of what I did while setting up GitHub-RStudio
 ##connection, put in same place as cloned repo D:/LTREB/LTREB_Phenology_Demography
 
